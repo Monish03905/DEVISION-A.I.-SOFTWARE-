@@ -1,27 +1,65 @@
-# DeVision — Autonomous Code Repair & Verification Engine
+# 🤖 DeVision A.I.
 
-DeVision is an AI software engineering platform that closes the loop on code diagnostics and repair: see the issue, retrieve real project context, write the fix, run tests in a real CI/CD pipeline, and verify the outcome.
+### Autonomous Code Repair & Verification Engine
 
-## Features
+> **Detect. Diagnose. Repair. Verify.**
 
-- **5-Stage Verification Loop**: See → Understand → Fix → Test → Verify.
-- **Real Code & Test Suite Runner**: Run cycles on custom modules and test suites with side-by-side original vs. fixed file diffs.
-- **Cycle Planner**: Schedule diagnostic and maintenance cycles with start/end times and view upcoming runs on the dashboard.
-- **CI/CD Integration**: Connect each stage to a real CI build step with live output logs and status tracking.
-- **Cost & Resource Metrics**: Track CPU %, memory usage, execution time, and compute costs per stage and cycle.
+DeVision A.I. is an AI-powered software engineering platform designed to assist developers in identifying, analyzing, and resolving software issues through an intelligent automated workflow.
 
-## Development
+Instead of treating debugging as a purely manual process, DeVision explores an autonomous development workflow where code can be analyzed, potential issues can be identified, fixes can be proposed, and the resulting changes can be verified.
 
-```bash
-# Install dependencies
-npm install
+---
 
-# Run dev server
-npm run dev
+<p align="center">
 
-# Build for production
-npm run build
-```
+<a href="https://jocular-douhua-96704b.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-DeVision%20A.I.-success?style=for-the-badge" />
+</a>
 
-## Live Link
-https://jocular-douhua-96704b.netlify.app
+<a href="https://github.com/Monish03905/DEVISION-A.I.-SOFTWARE-">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Engineering-Automation-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code-Analysis-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verification-Driven-success?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🚀 Live Demo
+
+### 🌐 [Launch DeVision A.I.](https://jocular-douhua-96704b.netlify.app/)
+
+Explore the deployed DeVision A.I. application and experience its developer-focused workflow.
+
+---
+
+# 🧠 What is DeVision?
+
+Software development doesn't end when code compiles.
+
+Real-world software engineering requires developers to continuously:
+
+```text
+Write Code
+    ↓
+Detect Problems
+    ↓
+Understand the Failure
+    ↓
+Identify the Root Cause
+    ↓
+Develop a Fix
+    ↓
+Apply the Fix
+    ↓
+Run Verification
+    ↓
+Validate the Result
